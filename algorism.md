@@ -22,4 +22,3 @@ def FibonaChicken(N):
             i += 1
         return Binet(i - 2) + FibonaChicken(N - Binet(i - 1))
 
-유튜브링크: https://www.youtube.com/watch?v=RgjLmjDQQww
